@@ -1,0 +1,33 @@
+﻿  ParticleEmitter.cpp
+c:\users\tobias kroll\source\repos\particle system\particle system\particleemitter.cpp(22): warning C4305: '=': truncation from 'double' to 'float'
+  ParticleSystem.cpp
+  Renderer.cpp
+c:\users\tobias kroll\source\repos\particle system\particle system\shader.h(51): warning C4101: 'info_log': unreferenced local variable
+c:\users\tobias kroll\source\repos\particle system\particle system\object.h(81): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tobias kroll\source\repos\particle system\particle system\object.h(175): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\tobias kroll\source\repos\particle system\particle system\renderer.cpp(240): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tobias kroll\source\repos\particle system\particle system\renderer.cpp(288): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\tobias kroll\source\repos\particle system\particle system\renderer.cpp(298): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\tobias kroll\source\repos\particle system\particle system\renderer.cpp(303): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\tobias kroll\source\repos\particle system\particle system\renderer.cpp(310): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  WindForce.cpp
+  main.cpp
+c:\users\tobias kroll\source\repos\particle system\particle system\shader.h(51): warning C4101: 'info_log': unreferenced local variable
+c:\users\tobias kroll\source\repos\particle system\particle system\object.h(81): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tobias kroll\source\repos\particle system\particle system\object.h(175): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  0 of 1813 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Tobias Kroll\source\repos\Particle System\x64\Release\vc120.pdb'; linking object as if no debug info
+  Particle System.vcxproj -> C:\Users\Tobias Kroll\source\repos\Particle System\x64\Release\Particle System.exe
